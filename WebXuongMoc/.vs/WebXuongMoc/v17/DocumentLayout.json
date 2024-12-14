@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VU SON\\source\\repos\\WebXuongMoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\source\\repos\\webxuongmoc\\webxuongmoc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\source\\repos\\webxuongmoc\\webxuongmoc\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\source\\repos\\webxuongmoc\\webxuongmoc\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\source\\repos\\webxuongmoc\\webxuongmoc\\areas\\admins\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\source\\repos\\webxuongmoc\\webxuongmoc\\models\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\models\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\VU SON\\source\\repos\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\VU SON\\source\\repos\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T23:23:07.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\VU SON\\source\\repos\\WebXuongMoc\\WebXuongMoc\\Models\\AdminUser.cs",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Models\\AdminUser.cs",
+              "ToolTip": "C:\\Users\\VU SON\\source\\repos\\WebXuongMoc\\WebXuongMoc\\Models\\AdminUser.cs",
+              "RelativeToolTip": "WebXuongMoc\\Models\\AdminUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:04:23.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\VU SON\\source\\repos\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\VU SON\\source\\repos\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwCUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:39:09.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\VU SON\\source\\repos\\WebXuongMoc\\WebXuongMoc\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\VU SON\\source\\repos\\WebXuongMoc\\WebXuongMoc\\Models\\Category.cs",
+              "RelativeToolTip": "WebXuongMoc\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:01:41.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VU SON\\source\\repos\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VU SON\\source\\repos\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T22:01:06.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
