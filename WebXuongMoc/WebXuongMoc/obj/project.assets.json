@@ -7693,11 +7693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VU SON\\source\\repos\\WebXuongMoc\\WebXuongMoc\\WebXuongMoc.csproj",
+      "projectUniqueName": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\WebXuongMoc.csproj",
       "projectName": "WebXuongMoc",
-      "projectPath": "C:\\Users\\VU SON\\source\\repos\\WebXuongMoc\\WebXuongMoc\\WebXuongMoc.csproj",
+      "projectPath": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\WebXuongMoc.csproj",
       "packagesPath": "C:\\Users\\VU SON\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VU SON\\source\\repos\\WebXuongMoc\\WebXuongMoc\\obj\\",
+      "outputPath": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\VU SON\\AppData\\Roaming\\NuGet\\NuGet.Config",

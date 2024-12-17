@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "90G6AJ+7Pjk=",
+  "dgSpecHash": "1e0zSJErMKk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\VU SON\\source\\repos\\WebXuongMoc\\WebXuongMoc\\WebXuongMoc.csproj",
+  "projectFilePath": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\WebXuongMoc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VU SON\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\VU SON\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

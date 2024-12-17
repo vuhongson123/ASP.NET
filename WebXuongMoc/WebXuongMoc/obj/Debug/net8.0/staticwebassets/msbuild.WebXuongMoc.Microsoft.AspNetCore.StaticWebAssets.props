@@ -1,5 +1,21 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\anh\ACFrOgBTLU7lXh1_kp8AmrJBprHHCzy4TqZYk0uEUgGYeq0Ix1dtvlgeeoUcIz0qJ1CLBAMSCkbTPGYaHuiEr2yVl1lD3o37bWwslxAUwoZig-JKSbtdz3TsQKWec3CkPCbJwPh1uJnpvDknUz3n34b8xEg6uGiGVtiz4hrl7w==.pdf))">
+      <SourceType>Package</SourceType>
+      <SourceId>WebXuongMoc</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WebXuongMoc</BasePath>
+      <RelativePath>anh/ACFrOgBTLU7lXh1_kp8AmrJBprHHCzy4TqZYk0uEUgGYeq0Ix1dtvlgeeoUcIz0qJ1CLBAMSCkbTPGYaHuiEr2yVl1lD3o37bWwslxAUwoZig-JKSbtdz3TsQKWec3CkPCbJwPh1uJnpvDknUz3n34b8xEg6uGiGVtiz4hrl7w==.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\anh\ACFrOgBTLU7lXh1_kp8AmrJBprHHCzy4TqZYk0uEUgGYeq0Ix1dtvlgeeoUcIz0qJ1CLBAMSCkbTPGYaHuiEr2yVl1lD3o37bWwslxAUwoZig-JKSbtdz3TsQKWec3CkPCbJwPh1uJnpvDknUz3n34b8xEg6uGiGVtiz4hrl7w==.pdf))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\anh\avatar.png))">
       <SourceType>Package</SourceType>
       <SourceId>WebXuongMoc</SourceId>
