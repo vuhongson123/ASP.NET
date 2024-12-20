@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebXuongMoc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05d226e4a8d4e0396db2ca06e88421ebc8cfafcb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8a18179077ba7dca30faf86db80180dff26d23a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebXuongMoc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebXuongMoc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

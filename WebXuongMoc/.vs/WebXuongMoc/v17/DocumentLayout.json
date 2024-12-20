@@ -3,8 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\views\\banners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\views\\banners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\controllers\\partnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\controllers\\partnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\views\\adminusers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,28 +91,12 @@
       "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\views\\adminusers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\controllers\\adminuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,10 +119,6 @@
       "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\models\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|c:\\users\\vu son\\documents\\github\\asp.net\\webxuongmoc\\webxuongmoc\\areas\\admins\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{356C1875-951F-44CE-BC45-3087584AD064}|WebXuongMoc\\WebXuongMoc.csproj|solutionrelative:webxuongmoc\\areas\\admins\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -91,80 +135,103 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_SideBar.cshtml",
-              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
-              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
-              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
-              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA9AAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Banners\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\Banners\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Banners\\Index.cshtml",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\Banners\\Index.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T04:48:05.615Z",
+              "WhenOpened": "2024-12-20T03:34:04.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
-              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAmwJ4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T04:46:58.019Z",
+              "Title": "BannersController.cs",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:33:53.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
-              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAswJEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T04:46:23.87Z",
+              "Title": "PartnersController.cs",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Controllers\\PartnersController.cs",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Controllers\\PartnersController.cs",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Controllers\\PartnersController.cs",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Controllers\\PartnersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:22:57.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
-              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
-              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
-              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T04:45:55.734Z",
+              "WhenOpened": "2024-12-20T02:14:42.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml",
-              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml",
-              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAswHsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T04:45:38.763Z",
+              "WhenOpened": "2024-12-20T02:14:38.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml",
-              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAswIAAAAAWAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T04:45:10.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T02:14:32.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAJQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T02:13:04.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:48:05.615Z"
             },
             {
               "$type": "Document",
@@ -176,25 +243,96 @@
               "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Controllers\\AdminUsersController.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAAADwAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T04:43:55.861Z",
+              "WhenOpened": "2024-12-17T04:43:55.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Models\\Banner.cs",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Models\\Banner.cs",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Models\\Banner.cs",
+              "RelativeToolTip": "WebXuongMoc\\Models\\Banner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:42:07.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\appsettings.json",
+              "RelativeDocumentMoniker": "WebXuongMoc\\appsettings.json",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\appsettings.json",
+              "RelativeToolTip": "WebXuongMoc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T03:17:36.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Program.cs",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Program.cs",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Program.cs",
+              "RelativeToolTip": "WebXuongMoc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:17:43.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T02:14:46.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T01:39:07.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Create.cshtml",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAswIAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:45:10.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIgAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T04:41:00.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T04:41:00.035Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "WebXuongMoc\\Models\\Contact.cs",
@@ -202,38 +340,11 @@
               "RelativeToolTip": "WebXuongMoc\\Models\\Contact.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T01:41:41.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T01:41:41.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebXuongMoc\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebXuongMoc\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T01:40:57.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T01:37:48.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Controllers\\LoginController.cs",
@@ -241,12 +352,11 @@
               "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Controllers\\LoginController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T04:40:59.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T04:40:59.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Controllers\\CategoriesController.cs",
@@ -254,12 +364,83 @@
               "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T01:37:08.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T01:37:08.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Delete.cshtml",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:45:38.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:45:55.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Edit.cshtml",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAswJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:46:23.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\AdminUsers\\Index.cshtml",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAmwJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:46:58.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebXuongMoc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:40:57.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T01:37:48.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
               "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
@@ -267,12 +448,11 @@
               "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
               "ViewState": "AgIAAHsAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T22:01:06.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T22:01:06.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 27,
               "Title": "AdminLog.cs",
               "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Models\\AdminLog.cs",
               "RelativeDocumentMoniker": "WebXuongMoc\\Models\\AdminLog.cs",
@@ -280,12 +460,11 @@
               "RelativeToolTip": "WebXuongMoc\\Models\\AdminLog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T01:41:43.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T01:41:43.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "AdminUser.cs",
               "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Models\\AdminUser.cs",
               "RelativeDocumentMoniker": "WebXuongMoc\\Models\\AdminUser.cs",
@@ -293,25 +472,11 @@
               "RelativeToolTip": "WebXuongMoc\\Models\\AdminUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T01:41:57.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T01:41:57.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Banner.cs",
-              "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Models\\Banner.cs",
-              "RelativeDocumentMoniker": "WebXuongMoc\\Models\\Banner.cs",
-              "ToolTip": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Models\\Banner.cs",
-              "RelativeToolTip": "WebXuongMoc\\Models\\Banner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T01:42:07.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 24,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Models\\Category.cs",
               "RelativeDocumentMoniker": "WebXuongMoc\\Models\\Category.cs",
@@ -319,12 +484,11 @@
               "RelativeToolTip": "WebXuongMoc\\Models\\Category.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T22:01:41.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T22:01:41.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 29,
               "Title": "_LayoutAdmin.cshtml",
               "DocumentMoniker": "C:\\Users\\VU SON\\Documents\\GitHub\\ASP.NET\\WebXuongMoc\\WebXuongMoc\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeDocumentMoniker": "WebXuongMoc\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
@@ -332,8 +496,7 @@
               "RelativeToolTip": "WebXuongMoc\\Areas\\Admins\\Views\\Shared\\_LayoutAdmin.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAABEAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T01:23:29.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T01:23:29.202Z"
             }
           ]
         }
